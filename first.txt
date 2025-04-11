@@ -1,2 +1,3 @@
 Hello, this is my new project
-Learing git
+Learning git
+for the second time
